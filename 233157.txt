@@ -1,0 +1,2 @@
+Eva Hadjipetrova 233157
+kreirav repozitorium na GitHub, napraviv README.md, dodadov poceten java kod i gi dokumentirav git logovite
